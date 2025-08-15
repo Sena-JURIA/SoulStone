@@ -1,0 +1,13 @@
+# Node modules
+/node_modules
+
+# Next.js build output
+/.next/
+/out/
+
+# Environment variables
+# ローカル開発用の秘密情報
+.env.local
+
+# npm cache
+.npm
